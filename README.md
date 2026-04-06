@@ -3,7 +3,7 @@
 A comprehensive actuarial simulation tool using Monte Carlo methods. Covers core **SOA Exam P** concepts with an interactive Streamlit dashboard and full Excel I/O pipeline.
 
 ## 🚀 Live Demo
-👉 **[Click here to try the app](https://your-app.streamlit.app)**
+👉 **[Click here to try the app](https://monte-carlo-insurance-simulator-pranavaswaruban-s.streamlit.app/)**
 
 ## 📋 Features
 - **Distribution Explorer** — Poisson, Binomial, NegBin, Exponential, Gamma, Pareto, Lognormal, Weibull
