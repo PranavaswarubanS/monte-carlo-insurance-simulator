@@ -204,9 +204,6 @@ This project demonstrates:
 
 ---
 
-
----
-
 <div align="center">
 
 ### ⭐ If you found this useful, please give it a star!
