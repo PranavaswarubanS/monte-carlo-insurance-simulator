@@ -204,18 +204,6 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
-
-**Pranavaswaruban S**
-Actuarial Science Student | SOA Exam P Candidate
-
-🐙 GitHub: [@PranavaswarubanS](https://github.com/PranavaswarubanS)
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
 
 ---
 
